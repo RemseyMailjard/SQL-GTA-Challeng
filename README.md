@@ -1,8 +1,5 @@
 
 
-```markdown
-
-
 ## Recommended Tools for Accessing the Database
 
 To connect to your Azure SQL Database and provides tools to configure, monitor, and administer instances of SQL Server and databases.
