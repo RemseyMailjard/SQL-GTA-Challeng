@@ -1,27 +1,5 @@
 # GTA: SQL Bay City Hustle – Bay City SQL Bootcamp
 
-# SQL Login Credentials & Database Access Tools
-
-Below are the SQL login credentials for the `gtareader` user, which has **read-only** access to the `GTA` schema within the `Courses` database.
-
-*   **Server Name:** `skills4it.database.windows.net`
-*   **Database Name:** `Courses`
-*   **Login (Username):** `gtareader`
-*   **Password:** `StrongPass!2025`
-
----
-
-## Recommended Tools for Accessing the Database
-
-To connect to your Azure SQL Database and execute the SQL queries from this guide, you can use several popular database management tools. Here are a few recommendations:
-
-1.  **Azure Data Studio:**
-    *   **Platform:** Windows, macOS, Linux.
-    *   **Description:** A free, cross-platform database tool for data professionals using on-premises and cloud data platforms on Windows, macOS, and Linux. ItOk offers a modern editor experience with IntelliSense, code snippets, source control integration, and an integrated terminal. It's particularly wellé, ik heb het advies over tools toegevoegd aan de Markdown-sectie-suited for working with Azure data services.
-    *   **Connection Type:** Microsoft SQL Server.
-    *   ** met de inloggegevens.
-
-```markdown
 # SQL Login Credentials & Recommended Tools
 
 Below are the SQL login credentials for the `Why it's good for this:** Lightweight, excellent Azure integration, and great for writing and executing SQL queries.
@@ -36,6 +14,19 @@ Below are the SQL login credentials for the `Why it's good for this:** Lightweig
 *   **Password:** `StrongPass!2   **Description:** A comprehensive, integrated environment for managing any SQL infrastructure, from SQL Server to Azure SQL Database. SSMS025`
 
 ---
+
+## Recommended Tools for Accessing the Database
+
+To connect to your Azure SQL Database and execute the SQL queries from this guide, you can use several popular database management tools. Here are a few recommendations:
+
+1.  **Azure Data Studio:**
+    *   **Platform:** Windows, macOS, Linux.
+    *   **Description:** A free, cross-platform database tool for data professionals using on-premises and cloud data platforms on Windows, macOS, and Linux. ItOk offers a modern editor experience with IntelliSense, code snippets, source control integration, and an integrated terminal. It's particularly wellé, ik heb het advies over tools toegevoegd aan de Markdown-sectie-suited for working with Azure data services.
+    *   **Connection Type:** Microsoft SQL Server.
+    *   ** met de inloggegevens.
+
+```markdown
+
 
 ## Recommended Tools for Accessing the Database
 
